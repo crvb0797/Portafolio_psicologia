@@ -7,22 +7,6 @@ body{
     width: 80px;
 }
 
-
-@media only screen and (max-width: 600px) {
-    .logo{
-        height: 30px;
-        width: 30px;
-    }
-    
-    .title{
-        font-size: 14px;
-    }
-    
-    .text{
-        font-size: 12px;
-    }
-    }
-
 #main .carousel-inner img{
     max-height: 70vh;
     object-fit: cover;
@@ -63,3 +47,19 @@ body{
 footer{
     background-color: #33B5E5;
 }
+
+
+@media only screen and (max-width: 600px) {
+    .logo{
+        height: 30px;
+        width: 30px;
+    }
+    
+    .title{
+        font-size: 14px;
+    }
+    
+    .text{
+        font-size: 12px;
+    }
+    }
