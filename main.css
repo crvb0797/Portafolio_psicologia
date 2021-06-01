@@ -13,7 +13,7 @@ body{
 }
 
 .separate{
-    width: 70%;
+    width: 80%;
     height: .3rem;
     background: linear-gradient(90deg, hsla(350, 81%, 42%, 1) 0%, hsla(275, 66%, 13%, 1) 100%);
     border-radius: 60%;
