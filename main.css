@@ -7,6 +7,20 @@ body{
     width: 80px;
 }
 
+.separate-container{
+    display: flex;
+    justify-content: center;
+}
+
+.separate{
+    width: 70%;
+    height: .3rem;
+    background: linear-gradient(90deg, hsla(350, 81%, 42%, 1) 0%, hsla(275, 66%, 13%, 1) 100%);
+    border-radius: 60%;
+    margin-top: 18px;
+    margin-bottom: 18px;
+}
+
 #main .carousel-inner img{
     max-height: 70vh;
     object-fit: cover;
